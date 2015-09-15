@@ -29,5 +29,6 @@ Make with Packed noodle and Redbull :)
 ### Additional
 - [x] Nice User Interface with many animation 
 - [x] DetailsView will show images include in tweet
+
 ### Walkthrough
 ![Video Walkthrough](images/screenshot.gif)
